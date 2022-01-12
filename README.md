@@ -4,11 +4,11 @@ PamelaJwhite
 ---
 
 ### About
--  **Learning :** Full-Stack :zap: 
+-  **Learning :** Full-Stack :zap: | React :collision:
 -  **Hobbies :** Yoga :lotus_position_woman: | Disc Golf :flying_disc:
 -  **Ask me about :** Why a Behavior Analyst Yogi makes a Dope Developer :v:
 -  **Fun fact :** Water Safari was the best wedding reception ever :heart: 
--  **Pronouns :** She/Her/Hers ♀️
+-  **Pronouns :** She/Her/Hers :female_sign:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
