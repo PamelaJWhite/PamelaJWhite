@@ -1,6 +1,6 @@
 ### Hey Y'all 👋
 ---
-PamelaJwhite
+PamelaJWhite
 ---
 
 ### About
