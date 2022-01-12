@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hey Y'all 👋
 ---
-title: PamelaJWhite
-githubUsername: 'PamelaJwhite'
+PamelaJwhite
 ---
 
 ### About
