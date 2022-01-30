@@ -7,7 +7,7 @@ PamelaJWhite
 -  **Learning :** Full-Stack :zap: | React :collision:
 -  **Hobbies :** Yoga :lotus_position_woman: | Disc Golf :flying_disc:
 -  **Ask me about :** Why a Behavior Analyst Yogi makes a Dope Developer :v:
--  **Fun fact :** I carried a placard in the Opening Ceremonies of the Olympics :medal_sports: 
+-  **Fun fact :** During my HS math state exam, my calculater didn't have a sqare root button. I found a work-around :medal_sports: 
 -  **Pronouns :** She/Her/Hers :female_sign:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
